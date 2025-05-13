@@ -56,7 +56,7 @@ The app leverages AI and machine learning to provide personalized recommendation
 
 3. Start the development server:
    ```bash
-   npx expo start
+   npm run dev
    ```
 
 4. Run on a device or emulator:
