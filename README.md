@@ -19,9 +19,7 @@ The app leverages AI and machine learning to provide personalized recommendation
 
 ## Screenshots
 ![Starting](screenshots/introduction.png)
-![Student Dashboard](screenshots/student-dashboard.png)
 ![Location Details](screenshots/location-details.png)
-![Admin Dashboard](screenshots/admin.png)
 ## Technologies Used
 
 - **React Native / Expo**: For cross-platform mobile development
